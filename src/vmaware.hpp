@@ -484,6 +484,8 @@ private:
                     "parallels", "vmware", "hvm", "qnx"
                 };
 
+//nigger
+            
                 u8 matches = 0;
 
                 for (std::size_t i = 0; i < vmkeywords.size(); i++) {
